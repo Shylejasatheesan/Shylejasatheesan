@@ -73,7 +73,45 @@ I code with
 
 ###
 
+###
+Internships:
+###
+
+💻 UNSCHOOL(Digital Marketing)---|---💻  CRITTER GRAPHIX, (Content Writer and UI&UX) 
+###
+💻  digiALERT, (Cybersecurity)---|---💻 PROMPT INFOTECH (Cyber & Network Security)
+###
+💻  TCS, (Cybersecurity)----|-------💻  PRODIGY-INFOTECH, (Cybersecurity)
+###
+💻  PALGENIE TECHNOLOGY(GEN AI)---|----💻 INFOSYS, (Python Stack Technology)
+###
+
+###
+Certifications:
+###
+📜Cybersecurity - CISCO Networking Academy , Elewayte, Coursera, Unschool
+###
+📜Cloud Computing- NPTEL
+###
+📜Network Security-CISCO Networking Academy
+###
+📜C, C++, Java, Python, sql, Problem Solving- Hackerrank
+###
+📜Foundation of AI, Gen AI- Microsoft
+###
+📜C, C++, Python, Java- SkillRack
+###
+📜Certified Appsec Practitioner(CAP)- SecOps
+###
+📜UI & UX - Critter Graphix
+###
+📜Google Ads, R and Django Programming- Unschool
+###
+📜Machine  Learning Onramp- MathWorks
+###
+
 ---
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shylejasatheesan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
