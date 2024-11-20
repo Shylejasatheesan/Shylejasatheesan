@@ -77,13 +77,21 @@ I code with
 Internships:
 ###
 
-💻 UNSCHOOL(Digital Marketing)---|---💻  CRITTER GRAPHIX, (Content Writer and UI&UX) 
+💻 UNSCHOOL(Digital Marketing)
 ###
-💻  digiALERT, (Cybersecurity)---|---💻 PROMPT INFOTECH (Cyber & Network Security)
+💻  CRITTER GRAPHIX, (Content Writer and UI&UX) 
 ###
-💻  TCS, (Cybersecurity)----|-------💻  PRODIGY-INFOTECH, (Cybersecurity)
+💻  digiALERT, (Cybersecurity)
 ###
-💻  PALGENIE TECHNOLOGY(GEN AI)---|----💻 INFOSYS, (Python Stack Technology)
+💻 PROMPT INFOTECH (Cyber & Network Security)
+###
+💻  TCS, (Cybersecurity)
+###
+💻  PRODIGY-INFOTECH, (Cybersecurity)
+###
+💻  PALGENIE TECHNOLOGY(GEN AI)
+###
+💻 INFOSYS, (Python Stack Technology)
 ###
 
 ###
@@ -95,11 +103,9 @@ Certifications:
 ###
 📜Network Security-CISCO Networking Academy
 ###
-📜C, C++, Java, Python, sql, Problem Solving- Hackerrank
+📜C, C++, Java, Python, sql, Problem Solving- Hackerrank, SkillRack
 ###
 📜Foundation of AI, Gen AI- Microsoft
-###
-📜C, C++, Python, Java- SkillRack
 ###
 📜Certified Appsec Practitioner(CAP)- SecOps
 ###
